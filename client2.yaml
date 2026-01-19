@@ -1,0 +1,6 @@
+path: clients/client2
+train: images
+val: images
+
+nc: 2
+names: ["helmet", "no_helmet"]
